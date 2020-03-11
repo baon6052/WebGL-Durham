@@ -1,6 +1,9 @@
 ------------ Set-up ------------
+
 Dependencies
+
     <1> Install nodejs - https://nodejs.org/en/
+    
     <2> Install http-server  - https://www.npmjs.com/package/http-server
 
 
