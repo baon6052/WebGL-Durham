@@ -1,24 +1,30 @@
------------- Set-up ------------
+### Set-up
 
-Dependencies
+#### Dependencies
 
     <1> Install nodejs - https://nodejs.org/en/
     
     <2> Install http-server  - https://www.npmjs.com/package/http-server
 
 
------------- Run ------------
-Automatic:
+### Run
+
+#### Automatic
+
     <1> Click on "Start.bat"
+    
     <2> Go to http://localhost:8080/
 
-Manual:
+#### Manual
+
     <1> Open terminal in root folder
+    
     <2> Enter http-server
+    
     <3> Go to http://localhost:8080/
 
 
------------- Description ------------
+#### Description 
 
 What you will hopefully see is the Durham Cathedrale next to the river.
 Although there are no key/mouse navigation the model is in an orbit, allowing you
