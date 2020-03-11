@@ -1,3 +1,5 @@
+![Demo](Demo.gif)
+
 ### Set-up
 
 #### Dependencies
